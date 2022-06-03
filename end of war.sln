@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "end of war", "end of war\end of war.csproj", "{C89F0F40-D48E-479C-9DE5-3A3E7CCBFCFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C89F0F40-D48E-479C-9DE5-3A3E7CCBFCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89F0F40-D48E-479C-9DE5-3A3E7CCBFCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89F0F40-D48E-479C-9DE5-3A3E7CCBFCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89F0F40-D48E-479C-9DE5-3A3E7CCBFCFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
